@@ -1,1 +1,1 @@
-from gym_basic.envs import BasicEnv
+from term_gym.envs import TermENV
